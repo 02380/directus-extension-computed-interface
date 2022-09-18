@@ -1,11 +1,7 @@
 {
-	"name": "directus-extension-computed-interface",
-	"version": "1.0.1",
-	"description": "Perform computed value based on other fields",
-	"author": {
-		"email": "duydvu98@gmail.com",
-		"name": "Vũ Đức Duy"
-	},
+	"name": "directus-extension-live-preview",
+	"version": "1.0.0",
+	"description": "Preview HTML live in browser.",
 	"license": "gpl-3.0",
 	"repository": {
 		"type": "git",

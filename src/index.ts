@@ -2,10 +2,10 @@ import { defineInterface } from '@directus/extensions-sdk';
 import InterfaceComponent from './interface.vue';
 
 export default defineInterface({
-	id: 'computed',
-	name: 'Computed',
+	id: 'livepreview',
+	name: 'Live Preview',
 	icon: 'calculate',
-	description: 'Perform computed value based on other fields',
+	description: 'Create a live preview of your content',
 	component: InterfaceComponent,
 	types: ['string', 'text', 'integer', 'decimal', 'bigInteger', 'float', 'boolean'],
 	group: 'other',
