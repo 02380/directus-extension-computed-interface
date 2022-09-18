@@ -1,5 +1,5 @@
 <template>
-	<div v-if="displayOnly" v-html="computedValue" />
+	<div v-if="displayOnly" style="all: initial;" v-html="computedValue" />
 	<v-input v-else v-model="value" />
 </template>
 
