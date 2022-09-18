@@ -1,11 +1,11 @@
 {
 	"name": "directus-extension-live-preview",
 	"version": "1.0.0",
-	"description": "Preview HTML live in browser.",
+	"description": "Preview HTML live in browser. Based on rezo-lab's computed value extension.",
 	"license": "gpl-3.0",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/rezo-labs/directus-extension-computed-interface.git"
+		"url": "https://github.com/02380/directus-extension-live-preview.git"
 	},
 	"keywords": [
 		"directus",
