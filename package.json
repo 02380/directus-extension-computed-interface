@@ -10,7 +10,7 @@
 	"keywords": [
 		"directus",
 		"directus-extension",
-		"directus-custom-interface"
+		"directus-live-preview"
 	],
 	"directus:extension": {
 		"type": "interface",
